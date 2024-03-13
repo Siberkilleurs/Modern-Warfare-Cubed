@@ -16,7 +16,6 @@ out
 
 # Gradle
 build
-.gradle
 
 # Forge
 run
